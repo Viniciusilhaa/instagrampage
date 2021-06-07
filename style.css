@@ -1,0 +1,63 @@
+body {
+    justify-content: center;
+
+}
+.instagram-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 60%;
+    height: 100wh;
+}
+
+.instagram-phone {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.instagram-phone img{
+    height: 50rem;
+}
+
+
+    .instagram-continue {
+        display: flex;
+        align-items: center;
+        justify-content : space-around;
+        flex-direction: column;
+        width: 50%;
+        height: 34rem;
+    
+    }
+    .instagram-continue {
+        display: flex;
+        align-items: center;
+        justify-content : space-around;
+        flex-direction: column;
+    
+        height: rem;
+    
+    }
+
+    .group {
+display: flex;
+align-items: center;
+justify-content: space-between;
+flex-direction: column;
+width: 100%;
+padding: 1,3rem 0;
+border: 1px solid lightgray;
+    }
+
+
+.instagram-login {
+    background-color: blue;
+    color: cornsilk;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.instagra-logout {
+     color: darkblue;
+}
